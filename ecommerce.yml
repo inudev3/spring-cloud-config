@@ -1,6 +1,6 @@
 
 token:
   secret: hellotherehellotherehellotherehellotherehellotherehellotherehellotherehellothere
-  expiration_time: 1008999999
+  expiration_time: 86400000
 gateway:
   ip: 127.0.0.1

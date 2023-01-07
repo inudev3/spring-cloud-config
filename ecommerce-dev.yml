@@ -1,0 +1,6 @@
+
+token:
+  secret: hellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellotherehellothere
+  expiration_time: 86400000
+gateway:
+  ip: 127.0.0.1

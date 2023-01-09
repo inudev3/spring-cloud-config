@@ -1,0 +1,7 @@
+
+spring:
+  datasource:
+    url:  jdbc:h2:mem:testdb
+    password: '{cipher}0f5b55fee530d0a008b9238fcc6a593cd4931b1ebce9fa87b4c014c29a5b33ea'
+    username: sa
+    driver-class-name: org.h2.Driver

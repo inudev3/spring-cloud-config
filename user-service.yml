@@ -15,4 +15,4 @@ spring:
     driver-class-name: org.h2.Driver
 
 order_service:
-  url: http://ORDER-SERVICE/order-service/%s/orers
+  url: http://ORDER-SERVICE/order-service/%s/orders

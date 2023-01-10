@@ -13,3 +13,6 @@ spring:
     password: '{cipher}AYBlqEr5/CTlEQXKLE+We90hsQ+Cw+ePC64fmaha4aJb1MQ83olc42yFaHfoeenaNcPbxs9GNEV6FNvhFFjY09B2psPEJTl6OmbYYrgqIIS7CTTWXKSaUV8XQxkfOOWT6XizRNFztz05x+PeIOHbydoIH5r5+iSH7wrlWPgodIfeE8EXNY0gL4DX68OShgLijskRg2bsi1JNWEmJi3HyMwByEQqvDN8EGMyBj3mmlnKUcrS69iAz/qF5uRCcYf89F5XvSdvBqzfVAGEEU/MeXm0tCjqe9M1yqp3rB2jVxJDKMZd9UP7BiOAzm/7bDqNf3caII9PbvzgSrEO8VkyrzoZ2LcZQTkJlNjlKSRf+JZZ/j89Jw3XfU7Qj6OODgDA2aWkVE3hrf+vsnM4J3X2r78jp2w2TQ5Own5aG/f4a5ttaDiFqb8msM8r1j56HjnYa5bDXdh6LkLWRK7WC7axsf+DsPyDbSagxXFjp0Zxi1ZKCr+lf4OCkXDEVCboMUnCxH0A15pMECNUZy4JKBFliYZpn39Pu+B2dFY5W1pMp4lipv4raPGVhKLKdooacToaRADU='
     username: sa
     driver-class-name: org.h2.Driver
+
+order_service:
+  url: http://ORDER-SERVICE/order-service/%s/orers

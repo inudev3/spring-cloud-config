@@ -3,7 +3,7 @@ token:
   secret: '{cipher}AYA6BLbTC6xuD4Nw50YCSvt/qI/bBhjJjtfLmrpcetZG3aHpI/Jd5dks35wmc7yVdAKGsBwrRO9qIHRJgqkDdMAxPajboZ68yUlJBrQhlwbBAq3UR4m01yLUKtwvv6PK5l0XwMzIYNncuAYuWjQ9Tm7QXjp1Z9M4+Sa3YYg0dFmBchxYyGE4sT4IHF0q8x9La6t6FsA64NBO1avyPI0WPJem0bgrR4YWSs8mep2Mg7ivdFz2D5B88HnOkm+QuLLlnhoM7S3tvr9Wcpx/fgwOQHNUs2bMMMO3KFuFNj+5O+ntJjU/7vlxgXtG3xXyuVXCp85HM415hX+a0FiLJZJTGjCIZ3th4IP7ick3tAOpnxuySdg11n+MzmR0ybprRjfdjZcggoNYauazyfMhhjPwWESRRDAaMoNyOHPHRaf6EjzFUTZ6UKDPK7fHDRKlLGVPTE8ZQN9K9OzWtrDSwyBPbB1Uyy/7svUd2i00l9cVL1YnugWkyqTnyQyK4xn0ICOitA22hFvJgYcGSR4Uf9RCdYjy1oX3aQW7PUf7sihqO6M1W3I3i8VjT9ilCjFt9Ana0oaz169VqR6PkFuAgYZIEZwPs+8VGzUV0cGSjez+sCDoZmzhLCu8LYlqdPO329lBthNxe0y+hkRINBX0SCWUkd/EnjSH89f0Sux1XkazeP7ORm2aWxDD1LjjIB9fFFjvKyEoZznIHH08KlfmvhhvbHQd'
   expiration_time: 86400000
 gateway:
-  ip: 127.0.0.1
+  ip: 172.18.0.5
 
 
 
@@ -16,3 +16,5 @@ spring:
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
+
+
